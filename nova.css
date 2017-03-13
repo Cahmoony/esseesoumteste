@@ -1,0 +1,29 @@
+@font-face { src:url('http://essiskins.b1.jcink.com/uploads/essiskins/DTM_Sans.ttf'); 
+font-family:down; } @font-face { src:url('http://symmetry.b1.jcink.com/uploads/symmetry/fontawesome_webfont.ttf'); 
+font-family:awesome; } @font-face { src:url('http://essiskins.b1.jcink.com/uploads/essiskins/Montserrat_Black.ttf'); 
+font-family:mont; } 
+#outermapsig { width:290px; height:60px; margin:auto; border-top:1px solid #efefef; border-bottom:1px solid #efefef; padding:10px;} 
+.maprightlinks { float:right; width:250px; text-align:right; } 
+.maprightlinks a { display:block; float:right; margin-right:30px; margin-top:8px; width:15px; height:15px; cursor:default; 
+border-radius:100%; } 
+.maprightlinks a:nth-child(3)::before { display:block; positioN:absolute; content:"?"; width:18px; 
+margin-left:-2px; margin-top:3px; font-family:awesome; color:#A8CABA; font-size:18px; } 
+.maprightlinks a:nth-child(2)::before { display:block; width:18px; positioN:absolute; content:"?"; 
+margin-left:-2px; margin-top:3px; font-family:awesome; color:#A8CABA; font-size:17px; } 
+.maprightlinks a:nth-child(1)::before { display:block; width:18px; positioN:absolute; content:"?"; 
+margin-left:-2px; margin-top:3px; font-family:awesome; color:#A8CABA; font-size:17px; } 
+.insidelink { width:55px; margin-top:-25px; margin-left:-25px; height:0px; overflow:hidden; opacity:0; 
+-webkit-transition:height 0s .4s, opacity .3s .2s, margin .3s .2s; } 
+.maprightlinks a:hover .insidelink { opacity:1; height:25px; margin-top:-29px; 
+-webkit-transition:height 0s 0s, opacity .3s, margin .3s 0s; } 
+.maplinkname { font-family:down; background:#efefef; border-radius:4px; width:45px; color:#aaa; cursor:pointer; 
+height:15px; text-transform:lowercase; line-height:14px; letter-spacing:1px; margin-left:10px; text-aligN:center; } 
+.maplinkname:hover { color:#777; } 
+.maplinktri { border-top:7px solid #efefef; border-left:5px solid rgba(0,0,0,0); border-right:5px solid rgba(0,0,0,0); 
+float:left; positioN:relative; margin-left:27px; } 
+.mapsname { border:1px solid #efefef; border-right:0px; float:left; height:32px; margin-left:-63px; text-aligN:center; 
+padding:12px; line-height:23px; font-family:mont; font-size:35px; color:#CAD7B2; margin-top:-22px; } 
+.smallmapswords { font-size:7px; text-transform:uppercase; line-height:9px; margin-left:130px; width:160px; 
+margin-top:28px; font-family:down; color:#aaa; letter-spacing:2.5px; text-align:center; }
+.maps-credit { width:10px; height:10px; font-size:8px!important; z-index:10; margin-top:24px; float:right; 
+position:relative; } .maps-credit a { color:#bbb!important; font-size:10px!important; }
