@@ -1,0 +1,34 @@
+.cdm .cdm1 {width: 450px; height:150px; 
+border:1px solid #AEAEAE; 
+position:relative; top:25px; left:25px;}
+.cdm .cdm2 {width: 450px;
+ height: 80px; text-align:center; 
+font-size: 80px; 
+line-height:80px;
+font-family: 'Roboto Condensed', sans-serif;
+font-weight:700;text-shadow: none; 
+opacity:1;color: #737373;
+position:relative; top:380px;
+text-transform:uppercase;transition:all 1s ease 1s;
+-moz-transition:all 1s ease 1s; 
+-webkit-transition:all 1s ease 1s; margin-top: -350px}
+.cdm:hover .cdm2 {color:transparent; 
+opacity:0.5;
+ text-shadow: 1px 0 0.088em #737373, 0 1px 0.088em #737373;
+ transition: all 1s ease; 
+-moz-transition: all 1s ease; 
+-webkit-transition: all 1s ease; }
+
+.cdm .cdm3 {width: 450px; height:30px; 
+font-family: 'Dawning of a New Day', cursive;
+font-size:30px; 
+line-height:30px;
+text-align:center;
+position:relative; top:325px;
+color:#C3C3C3;text-shadow: 1px 1px #000;opacity: 0;
+transition:all 1s ease 1s;
+-moz-transition:all 1s ease 1s; 
+-webkit-transition:all 1s ease 1s; }
+.cdm:hover .cdm3 {opacity:1; transition: opacity 0.8s ease 0.5s;
+-moz-transition: opacity 0.8s ease 0.5s;
+-webkit-transition: opacity 0.8s ease 0.5s; }
