@@ -1,5 +1,5 @@
 .cdm .cdm1 {width: 450px; height:150px; 
-border:1px solid #AEAEAE; 
+border:1px solid #AEAEAE; margin-left: -50px;
 position:relative; top:25px; left:25px;}
 .cdm .cdm2 {width: 450px;
  height: 80px; text-align:center; 
