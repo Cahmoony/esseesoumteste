@@ -1,0 +1,26 @@
+.outer {
+background-color: #FFF;
+border: 1px solid #dedede;
+padding: 20px;
+width: 850px; }
+
+#chorizo {
+width: 800px;
+background-color: #fff;
+padding: 10px;
+color: gray;
+font: 13px verdana, sans-serif;
+text-align: justify; }
+
+#chorizo2 {
+padding-bottom: 10px;
+overflow-y: hidden;
+overflow-x: auto;
+column-count: 1;
+column-gap: 10px;
+-webkit-column-count: 1;
+-moz-column-count: 1;
+-o-column-count: 1;
+-webkit-column-gap: 10px;
+-moz-column-gap: 10px;
+-o-column-gap: 10px; }
