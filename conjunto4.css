@@ -1,0 +1,11 @@
+.wildh-b1 { width: 284px; border: 1px solid #eaeaea; padding: 2px; }
+.wildh-b2 { width: 260px; background: #f1f1f1; padding: 12px; }
+
+.wildh-b6 { background: #fff; border-top: 1px solid #ebc0c0;  border-left: 1px solid #ebc0c0;   border-right: 1px solid #c0e1eb;  border-bottom: 1px solid #c0e1eb; padding: 4px; }
+.wildh-b7 { padding: 20px; /* Permalink - use to edit and share this gradient: <a href='http://colorzilla.com/gradient-editor/#ebc0c0+0,c0e1eb+100' rel='nofollow' target='_blank'>http://colorzilla.com/gradient-editor/#ebc0c0+0,c0e1eb+100</a> */
+background: #ebc0c0; /* Old browsers */
+background: -moz-linear-gradient(-45deg,  #ebc0c0 0%, #c0e1eb 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg,  #ebc0c0 0%,#c0e1eb 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg,  #ebc0c0 0%,#c0e1eb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebc0c0', endColorstr='#c0e1eb',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+ text-align: center; color: #fff; font-family: 'Merriweather Sans', sans-serif; font-size: 7px;  letter-spacing: 5px; text-transform: uppercase; }
