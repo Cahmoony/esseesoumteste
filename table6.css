@@ -1,0 +1,12 @@
+.lmfao1 { line-height:100%; width:815px; padding:5px; border:3px solid #e2e2e2; }
+.lmfao2 { width:800px; padding:5px; border:3px double #e2e2e2;  }
+.lmfao3 { width:800px; background-color:#f9f9f9; }
+.lmfaotitle { font-family:roboto; font-weight:100; color:#c2c2c2; font-size:25px; text-transform:uppercase; text-align:center; padding-top:28px; }
+.lmfaospace { margin-top:15px; width:150px; height:5px; background-color:#dba2a2; border-right:83px solid #c2c2c2; }
+.lmfaobar { width:726px; padding-right:5px; font-size:13px; color:#c2c2c2; text-align:justify; font-family:verdana; font-weight:300; }
+.lmfaobar::-webkit-scrollbar { width: 2px; }
+.lmfaobar::-webkit-scrollbar-track { background-color:#c2c2c2; }
+.lmfaobar::-webkit-scrollbar-thumb { border: none; background-color:#b1dec6; }
+.lmaoo {width:250px; height:20px;}
+.lmaocred { padding-bottom:10px; width:331px; }
+.lmaocred a { color:#c2c2c2; text-decoration:none !important; float:right; font-size:8px; }
