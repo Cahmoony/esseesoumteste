@@ -18,15 +18,15 @@
    padding-right: 10px;
    margin: 0 auto; 
    text-align: right; 
-   text-transform: uppercase;
+   text-transform: uppercase; color: black;
  }
  
  .n-fall .n-ftop {
    background-color: #333;
    color: #999;
-   padding: 60px 5px;
+   padding: 30px 5px;
    text-align: center; 
-   margin: 0 0 30px;
+   margin: 0 0 15px;
  }
  
  .n-fall h1 {
