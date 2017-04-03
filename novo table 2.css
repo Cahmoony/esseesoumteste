@@ -1,0 +1,12 @@
+.moonycah { 
+    width: 850px; background-color: #0a0a0a; padding: 50px; font-family: verdana; color: #7f7f7f; line-height:
+ 16px; text-align: justify; font-size: 13px; text-shadow: 0px 0px 0px black; 
+}
+
+.moonycah2 { 
+    width: 750px; text-align: right; font-family: 'Mr De Haviland', cursive; font-size: 35px; text-shadow: 1px 1px 1px black; color: white; padding-bottom: 30px;
+}
+
+.moonycah f {font-family: times; color: lightgray; text-style: none !important; letter-spacing: 1px; font-size: 14px; line-height: 16px;}
+
+.moonycahborder {border: 1px solid #0a0a0a; padding: 4px; width: 950px;}
