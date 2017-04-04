@@ -1,0 +1,4 @@
+.moonycah { width: 500px; font-family: verdana; color: gray; font-size: 13px; text-align: justify; padding: 30px; background-color: #050505; } 
+.moonycah2 { width: 560px; border: #050505 solid 1px; padding: 4px;}
+.moonycah3 { font-family: 'Mr De Haviland', cursive; width: 500px; font-size: 30px; text-shadow: 1px 1px 1px black; padding-top: 50px; text-align: center; padding-left: 20px;}
+.moonytab {width: 110px; height: 110px; background-size: 100px; background-position: center; transform: rotate(-45deg) translate(-3px, -30px); -moz-transform: rotate(-45deg) translate(-3px, -30px); -webkit-transform: rotate(-45deg) translate(-3px, -30px); -ms-transform: rotate(-45deg) translate(-3px, -30px); -o-transform: rotate(-45deg) translate(-3px, -30px); background-size: cover;}
