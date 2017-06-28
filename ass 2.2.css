@@ -1,0 +1,35 @@
+.sgout {  width: 350px; padding: 4px; background-color: #fcfcfc; border: 1px solid #f2f2f2; }
+.sg { width: 340px; padding: 4px; background-color: #ffffff; border: 1px solid #f2f2f2; }
+
+.sg1 { position: relative; width: 80px; height: 80px; padding: 7px; -webkit-border-radius: 100%; -moz-border-radius: 100%; -ms-border-radius: 100%; -o-border-radius: 100%; border-radius: 100%; z-index: 1; margin-right: 10px; }
+
+.sg2a { position: absolute; top: 12px; left: 12px; width: 70px; height: 70px; background-size: cover; background-position: center; z-index: 4; -webkit-border-radius: 100%; -moz-border-radius: 100%; -ms-border-radius: 100%; -o-border-radius: 100%; border-radius: 100%; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); filter: url(grayscale.svg); filter: gray; filter: url("data:image/svg+xml;utf8,<svg xmlns='https://www.w3.org/2000/svg'><filter id='grayscale'><feColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/></filter></svg>#grayscale"); }
+.sg2c { position: absolute; top: 12px; left: 12px; width: 70px; height: 70px; background-size: cover; background-position: center; z-index: 4; -webkit-border-radius: 100%; -moz-border-radius: 100%; -ms-border-radius: 100%; -o-border-radius: 100%; border-radius: 100%; }
+
+.sg2b { position: absolute; top: 7px; left: 7px; width: 78px; height: 78px; z-index: 3; border-top: 1px solid #efefef; border-right: 1px solid #efefef; border-bottom: 1px solid #8DE5E1; border-left: 1px solid #efefef; -webkit-border-radius: 100%; -moz-border-radius: 100%; -ms-border-radius: 100%; -o-border-radius: 100%; border-radius: 100%; -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -ms-transition: all 0.3s linear; -o-transition: all 0.3s linear; transition: all 0.3s linear; -webkit-animation: spinit 2s linear infinite; -moz-animation: spinit 2s linear infinite; animation: spinit 2s linear infinite; }
+@-webkit-keyframes spinit { 100% { -webkit-transform: rotate(360deg); } }
+@-moz-keyframes spinit { 100% { -moz-transform: rotate(360deg); } }
+@keyframes spinit { 100% { transform:rotate(360deg); } }
+
+.sg3 { width: 130px; margin-right: 15px; }
+.sg3a { display: inline-block; padding-top: 3px; color: #8f8f8f; font-family: sweet pea; font-size: 25px; font-weight: 400; font-style: normal; text-transform: uppercase; text-align: left; letter-spacing: 0px; word-spacing: 1px; line-height: 90%; }
+.sg3a:first-letter { color: #8DE5E1; }
+.sg3b { padding: 3px 5px 0px; color: #999999; font-family: montserrat; font-size: 7px; font-weight: 400; font-style: normal; text-align: right; text-transform: uppercase; letter-spacing: 0px; word-spacing: 1px; line-height: 110%; border-top: 1px solid #f2f2f2; margin-top: 2px; }
+
+.sglinks { width: 38px; height: 38px; background-color: #8DE5E1; color: #ffffff; font-size: 16px; text-align: center; line-height: 38px; }
+.sglinks i { line-height: 38px; }
+
+
+.sgout .hint:after,[data-hint]:after {content:attr(data-hint); padding: 5px; background: #ffffff; color: #919191; font-family: montserrat; font-size: 7px; font-weight: 400; font-style: normal; text-transform: uppercase; text-align: center; text-decoration: none; letter-spacing: 0px; word-spacing: 1px; line-height: 8px; white-space:nowrap; border: 1px solid #eeeeee; }
+.sgout .hint--bottom:before, .sgout .hint--left:before, .sgout .hint--right:before { display: none; border-left-color: #383838; }
+.sgout .hint,[data-hint]{}
+.sgout .hint:after,[data-hint]:after{text-shadow:0px 0px 0px rgba(0,0,0,0);box-shadow:0px 0px 0px rgba(0,0,0,.1)}
+.sgout .hint--bottom:before{margin-top:-35px}
+.sgout .hint--bottom:after{margin-left:-37px}
+.sgout .hint--bottom:before, .sgout .hint--bottom:after{top:85%;left:50%}
+.sgout .hint--left:before { margin-right: -12px; margin-bottom: -6px; }
+.sgout .hint--left:after { margin-bottom: -14px; }
+.sgout .hint--left:before, .sgout .hint--left:after { right: 80%; bottom: 63%; }
+.sgout .hint--right:before{margin-left:-12px;margin-bottom:-6px}
+.sgout .hint--right:after{margin-bottom:-14px}
+.sgout .hint--right:before, .sgout .hint--right:after{left:82%; bottom: 63%}
