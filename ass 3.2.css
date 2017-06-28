@@ -1,0 +1,7 @@
+.firefly { width: 200px; height: 75px; margin: auto; position: relative; overflow: hidden; }
+.firefly .fireflyl { position: absolute; top: 13px; left: 10px; font-family: 'Roboto Slab', sans-serif; text-transform: uppercase; width: 180px; text-align: center; line-height: 100%; color: #fff; font-weight: 700; font-size: 7px; letter-spacing: 2px; transition-duration: .6s; -webkit-transition-duration: .6s; -moz-transition-duration: .6s; -ms-transition-duration: .6s; -o-transition-duration: .6s; }
+.fireflyl span { font-size: 40px; letter-spacing: 0px; line-height: 100%;}
+.firefly:hover .fireflyl { left: 250px; }
+.firefly .fireflyt { left: -250px; top: 10px; width: 180px; transition-duration: .6s; -webkit-transition-duration: .6s; -moz-transition-duration: .6s; -ms-transition-duration: .6s; -o-transition-duration: .6s;  color: #fff; position: absolute; font-family: 'Roboto Slab', sans-serif; text-transform: uppercase; width: 180px; text-align: center; line-height: 100%; color: #fff; font-weight: 700; font-size: 7px; letter-spacing: 2px; }
+.firefly:hover .fireflyt { left: 10px; }
+.fireflyt a { font-size: 25px; letter-spacing: 0px; line-height: 100%; color: #fff; letter-spacing: -2px; text-transform: uppercase; font-style: normal; font-family: 'Roboto Slab', sans-serif; }
