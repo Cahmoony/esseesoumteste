@@ -1,0 +1,19 @@
+.narracao{ 
+width: 800px; 
+padding: 20px;
+text-align: justify; 
+font-family: verdana;
+font-size: 13px; 
+color: gray; 
+background-color:#ededed;
+margin-top: 20px;}
+.titulo { 
+width: 800px; 
+text-align: center; 
+font-size: 30px; 
+color: black; 
+font-family: 'Adamina', serif;}
+@font-face {
+    font-family: 'Adamina';
+    @import url('https://fonts.googleapis.com/css?family=Adamina');
+}
