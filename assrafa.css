@@ -1,0 +1,21 @@
+.rot1 {
+    -ms-transform: rotate(17deg); /* IE 9 */
+    -webkit-transform: rotate(17deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+}
+.total { margin-top: 32px; width: 400px;}
+
+.f1 { background-color: #c11525; width: 50px; height: 10px;}
+
+.rot2 {
+    -ms-transform: rotate(-17deg); /* IE 9 */
+    -webkit-transform: rotate(-17deg); /* Chrome, Safari, Opera */
+    transform: rotate(87deg);
+}
+
+.f2 { background-color: #f1af08; width: 50px; height: 10px;}
+
+.nome { font-family: times; font-style: italic; font-size: 22px; color: #fcfcfc; text-shadow: 1px 0px 0px black; width: 400px; -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg); margin-left: -75px;}
+.img {width: 80px; height: 80px; border-radius: 30px; padding-right: 10px;}
