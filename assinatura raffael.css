@@ -1,6 +1,20 @@
-.total {width: 300px;}
+.rot1 {
+    -ms-transform: rotate(17deg); /* IE 9 */
+    -webkit-transform: rotate(17deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+}
+.total { margin-top: 32px; width: 400px;}
 
-.srraa-two { width: 60px; padding: 9px; float: left; } .srraa-three { width: 60px; padding: 10px; height: 60px;} .srraa-four { width: 160px; height: 100px; padding: 9px; border: 1px solid #cecece; background-color: #545454; float: right; } .srraa-four img { width: 160px; } .srraa-five { width: 60px; padding: 5px; background-color: #545454; font-family: raleway; font-size: 8px; text-transform: uppercase; letter-spacing: 1px; color: #fff; text-align: Center; line-height: 100%; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; -webkit-transition-duration: .3s; -o-transition-duration: .3s; -moz-transition-duration: .3s; -o-transition-duration: .3s; -ms-transition-duration: .3s; } .srraa-five:Hover { color: #fff; background-color: #2a2a2a; } .srraa-six { width: 80px; height: 80px;} .srraa-six::-webkit-scrollbar { width: 5px; height: 5px; } .srraa-six::-webkit-scrollbar-track { background-color: #fff; } .srraa-six::-webkit-scrollbar-thumb { background-color: #545454; } .srraa-seven { width: 160px; height: 100px; overflow: hidden; } .srraa-eight { width: 140px; background-color: #2a2a2a; padding: 10px; height: 80px; position: relative; top: -260px; -webkit-transition-duration: .5s; -o-transition-duration: .5s; -moz-transition-duration: .5s; -o-transition-duration: .5s; -ms-transition-duration: .5s; } #srraa-one:hover .srraa-eight { top: -100px;} .srraa-nine { font-family: times; color: #fff; position: relative; top: 20px; font-size: 14px; color: #fff; font-weight: 900; line-height: 100%; text-align: center; font-style: italic;}.sub { font-family: calibri; font-size: 9px; color: #fff; text-align: center;letter-spacing: 2px; text-transform: uppercase;}
+.f1 { background-color: #c11525; width: 50px; height: 10px;}
 
+.rot2 {
+    -ms-transform: rotate(-17deg); /* IE 9 */
+    -webkit-transform: rotate(-17deg); /* Chrome, Safari, Opera */
+    transform: rotate(87deg);
+}
 
-#bijux4 {width: 60px; height: 60px; margin-top: -40px; margin-left: 80px; border: 12px solid #545454;z-index: 2;}
+.f2 { background-color: #f1af08; width: 50px; height: 10px;}
+
+.nome { font-family: times; font-style: italic; font-size: 22px; color: #fcfcfc; text-shadow: 1px 0px 0px black; width: 400px; -ms-transform: rotate(17deg); /* IE 9 */
+    -webkit-transform: rotate(17deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg); margin-left: -75px;}
