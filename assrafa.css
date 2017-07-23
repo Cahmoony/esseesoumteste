@@ -18,4 +18,4 @@
 .nome { font-family: times; font-style: italic; font-size: 22px; color: #fcfcfc; text-shadow: 1px 0px 0px black; width: 400px; -ms-transform: rotate(0deg); /* IE 9 */
     -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
     transform: rotate(-45deg); margin-left: -75px;}
-.img {width: 80px; height: 80px; border-radius: 30px; padding-right: 10px;}
+.imgem {width: 80px; height: 80px; border-radius: 30px; padding-right: 10px;}
